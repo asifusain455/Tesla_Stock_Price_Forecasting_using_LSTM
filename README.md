@@ -83,5 +83,3 @@ Through this project, you will learn:
 * Model evaluation and visualization
 * Financial data analysis
 
-
-This project is developed for educational and learning purposes. You are free to modify and use it for academic or personal projects.
